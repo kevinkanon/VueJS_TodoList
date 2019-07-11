@@ -1,3 +1,4 @@
+# My first Vue.JS application with Todolist Task 
 # vue_crash_todolist
 
 ## Project setup
